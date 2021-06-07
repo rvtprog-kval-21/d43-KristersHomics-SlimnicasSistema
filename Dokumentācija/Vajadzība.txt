@@ -1,0 +1,6 @@
+Katrā slimnīcā risinās notikumi, kuri ir jāsaglabā, jo informācija par notikumiem ir svarīga un var tikt izmantota nākotnē. 
+Šāda veida informācija var būt ļoti apjomīga, līdz ar to, ir nepieciešama optimāla datu uzskaites sistēma, kurā var glabāt 
+liela apjoma datus un kurā varēs viegli pārlūkot visus šos datus. Patreizējās slimnīcu sistēmas ir novecojušas, jo nav
+veidotas sistēmas ar jaunākām izstrādes vidēm. Šī sistēma ir veidota uz jaunākas versijas, kura ir lietotājiem draudzīgāka
+dizaina ziņā, kā arī strādā optimālāk ar lielu datu apjomu, kas slimnīcās pašlaik ir svarīgi, jo notiek liela cilvēku
+apgrozība.
