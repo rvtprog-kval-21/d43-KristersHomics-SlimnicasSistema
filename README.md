@@ -34,4 +34,4 @@ Microsoft Dynamics AX 2012 versija
 * Ielādēt "Koda fails.txt" no GitHub
 * Ieiet Microsoft Dynamics AX 2012, uzspiest import project un izvēlēties šo .txt failu
 
-Viss projekts atrodas šajā .txt failā un AX 2012 var atvērt tikai tāda veida failu.
+Projektus var importēt un eksportēt tikai ar vienā .txt failā, līdz ar to, projekts atrodas šajā .txt failā un AX 2012 var atvērt tikai tāda veida failu.
