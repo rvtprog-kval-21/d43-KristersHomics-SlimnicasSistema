@@ -26,6 +26,12 @@ Projektā tiek izmantots:
   [App diagrammas](https://app.diagrams.net/ ) - Diagrammu veidošanas rīks „app.diagrams”
   
 ## Vajadzīgā programmatūra:
-Microsoft dynamics AX 2012 versija
+Microsoft Dynamics AX 2012 versija
 
 ## Uzstādīšanas instrukcijas
+
+* Jābūt ielādētam Microsoft Dynamics AX 2012 uz datora;
+* Ielādēt "Koda fails.txt" no GitHub
+* Ieiet Microsoft Dynamics AX 2012, uzspiest import project un izvēlēties šo .txt failu
+
+Viss projekts atrodas šajā .txt failā un AX 2012 var atvērt tikai tāda veida failu.
