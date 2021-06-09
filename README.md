@@ -13,7 +13,7 @@ Projektā tiek izmantots:
 * MorphX
 
 ## Izmantotie avoti
-  [Microsoft docs](https://docs.microsoft.com/en-us/dynamicsax-2012/developer/how-to-create-tables) - •	Kā izveidot tabulas Microsoft dynamics AX vidē
+  [Microsoft docs](https://docs.microsoft.com/en-us/dynamicsax-2012/developer/how-to-create-tables) -	Kā izveidot tabulas Microsoft dynamics AX vidē
   
   [Alirazazaidi](https://www.tech.alirazazaidi.com/form-development-from-scratch-dynamics-ax-2012-r3-part-2/) - Dizaina izveide formās
   
